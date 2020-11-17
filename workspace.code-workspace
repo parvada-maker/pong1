@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads"
+		},
+		{
+			"path": "..\\..\\..\\Documents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Downloads"
+	}
+}
